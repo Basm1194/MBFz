@@ -1,11 +1,11 @@
 SpamCall
-FB {} { CHANDRA ADITYA } UPDATE 16-January-2019
+FB {} { MUHAMAD BADRU WASIH } UPDATE 16-January-2019
 
 Spam Call Unlimited
 $ pkg update && pkg upgrade
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/Aditya021/SpamCall
+$ git clone https://github.com/Muhamadba/MBFz
 $ cd SpamSms
 $ php SpamCall.php
 Masukan No Target ===>
